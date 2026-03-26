@@ -44,7 +44,7 @@ Proyek ini dibangun dengan pendekatan modular yang mencerminkan praktik terbaik 
 
 1.  **Clone repository ini.**
     ```bash
-    git clone https://github.com/NamaAnda/coc-chatbot.git
+    git clone https://github.com/davidbryanc/clash-of-clans-ai-chatbot.git
     cd coc-chatbot
     ```
 2.  **Install semua dependensi.**
