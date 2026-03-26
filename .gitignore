@@ -1,0 +1,13 @@
+# Folder Virtual Environment
+venv/
+.venv/
+
+# File rahasia
+.env
+
+# Folder cache Python
+__pycache__/
+*.pyc
+
+# Folder data yang bisa dibuat ulang
+parsed_data/

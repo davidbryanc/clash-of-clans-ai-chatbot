@@ -1,0 +1,8 @@
+python-dotenv
+wikitextparser
+langchain
+langchain-google-genai
+langchain-text-splitters
+pinecone-client
+chainlit
+langchain-pinecone
