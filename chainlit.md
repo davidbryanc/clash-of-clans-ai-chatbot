@@ -1,14 +1,10 @@
-# Welcome to Chainlit! 🚀🤖
+### Selamat Datang di Clash of Clans AI Expert! ⚔️
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+Saya adalah asisten AI yang memiliki pengetahuan mendalam tentang Troops, Buildings, Heroes, dan Spells di Home Village.
 
-## Useful Links 🔗
+**Anda bisa bertanya seperti:**
+- "Apa kelemahan dari sekelompok Wizard?"
+- "Berapa biaya upgrade Cannon ke level 10?"
+- "Bandingkan hitpoints Pekka level 5 dan Golem level 6."
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
-
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
-
-## Welcome screen
-
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+Silakan ajukan pertanyaan Anda di bawah ini!
