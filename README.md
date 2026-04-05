@@ -21,7 +21,7 @@ User Query
                    [Reformulated Query]
                           │
                           ▼
-                   [Gemini 1.5 Flash] ◄── [Retrieved Context + Sources]
+                   [Gemini 2.5 Flash] ◄── [Retrieved Context + Sources]
                           │
                           ▼
                    [Answer + Citation]
@@ -61,7 +61,7 @@ Script `evaluate.py` mengukur kualitas sistem secara otomatis menggunakan datase
 | UI | Gradio |
 | Deployment | Hugging Face Spaces (Docker) |
 | Vector Database | Pinecone |
-| LLM | Google Gemini 1.5 Flash |
+| LLM | Google Gemini 2.5 Flash |
 | Embedding Model | `all-MiniLM-L6-v2` (HuggingFace) |
 | RAG Framework | LangChain |
 | Data Source | Clash of Clans Fandom Wiki (XML Export) |
