@@ -11,3 +11,5 @@ __pycache__/
 
 # Folder data yang bisa dibuat ulang
 parsed_data/
+
+.eval_result/
